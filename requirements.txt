@@ -1,0 +1,6 @@
+bardapi==0.1.38
+googletrans==3.0.0
+pytube==15.0.0
+streamlit==1.27.2
+transformers==4.34.0
+youtube_transcript_api==0.6.1
