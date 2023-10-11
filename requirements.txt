@@ -4,3 +4,4 @@ pytube
 streamlit
 transformers
 youtube_transcript_api
+tensorflow
